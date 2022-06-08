@@ -4,4 +4,4 @@ In this talk, we will start by building the Backend while taking advantage of OT
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvUGTZbG8UKp17R1j9nbGr5nO017P68g-hKg_TSmsXg-fAhf64eiQRa3liks4L-yDrRne_s-IKW8cA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="785" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-%[https://youtu.be/kev-XCVsvG4?t=141]
+<iframe width="785" height="315" src="https://www.youtube-nocookie.com/embed/kev-XCVsvG4?start=105" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
